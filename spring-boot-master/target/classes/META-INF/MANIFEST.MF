@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: orouis
+Build-Jdk: 17.0.6
+Implementation-Title: spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: tn.esprit.spring
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot
+Created-By: Maven Integration for Eclipse
+
